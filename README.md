@@ -1,29 +1,21 @@
 # Introduction to Data Science Capstone Project
-<p align = 'center'>
-<img src="capstone/Slide1.jpg" width="600px" height="350px"></br>
-<img src="capstone/Slide2.jpg" width="600px" height="350px"></br>
-<img src="capstone/Slide3.jpg" width="600px" height="350px"></br>
-<img src="capstone/Slide4.jpg" width="600px" height="350px"></br>
-<img src="capstone/Slide5.jpg" width="600px" height="350px"></br>
-<img src="capstone/Slide6.jpg" width="600px" height="350px"></br>
-<img src="capstone/Slide7.jpg" width="600px" height="350px"></br>
-<img src="capstone/Slide8.jpg" width="600px" height="350px"></br>
-<img src="capstone/Slide9.jpg" width="600px" height="350px"></br>
-<img src="capstone/Slide10.jpg" width="600px" height="350px"></br>
-<img src="capstone/Slide11.jpg" width="600px" height="350px"></br>
-<img src="capstone/Slide12.jpg" width="600px" height="350px"></br>
-<img src="capstone/Slide13.jpg" width="600px" height="350px"></br>
-<img src="capstone/Slide14.jpg" width="600px" height="350px"></br>
-<img src="capstone/Slide15.jpg" width="600px" height="350px"></br>
-<img src="capstone/Slide16.jpg" width="600px" height="350px"></br>
-<img src="capstone/Slide17.jpg" width="600px" height="350px"></br>
-<img src="capstone/Slide18.jpg" width="600px" height="350px"></br>
-<img src="capstone/Slide19.jpg" width="600px" height="350px"></br>
-<img src="capstone/Slide20.jpg" width="600px" height="350px"></br>
-<img src="capstone/Slide21.jpg" width="600px" height="350px"></br>
-<img src="capstone/Slide22.jpg" width="600px" height="350px"></br>
-<img src="capstone/Slide23.jpg" width="600px" height="350px"></br>
-<img src="capstone/Slide24.jpg" width="600px" height="350px"></br>
-<img src="capstone/Slide25.jpg" width="600px" height="350px"></br>
-<img src="capstone/Slide26.jpg" width="600px" height="350px"></br>
-</p>
+
+## Group members:
+1. NurAfiqah
+2. Nurul 'Izzah
+3. Wan Addini Aisyah
+4. Rheshwan Raj
+5. Alifah
+
+---
+
+### <img src="https://c.tenor.com/ubvX6P6dkhUAAAAi/question-mark.gif" width="30px" height="35px"> Goal:
+The overall goal for our capstone project is by 2030, we want to reduce by one-third premature mortality from non-communicable diseases through promoting mental health and well-being.
+
+
+---
+
+### <img src="https://c.tenor.com/ubvX6P6dkhUAAAAi/question-mark.gif" width="30px" height="35px"> Objective:
+- To ensure health and well-being for the premature age.
+- To determine which non-communicable disease has the highest and lowest rate.
+- To examine the cause of premature mortality (>30 years & <70 years) and associated risk factors in ASEAN.
